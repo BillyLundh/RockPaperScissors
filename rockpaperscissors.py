@@ -12,8 +12,7 @@ def play_game():
        
     userInput = input("\nChoose option: ")
     computerPlayer = random.randrange(1,4)
-    
-    #system.os("cls")
+   
     print("Player: ", Type(int(userInput)).name)
     print("Computer: ", Type(computerPlayer).name)
     
