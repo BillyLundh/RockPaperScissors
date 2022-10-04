@@ -1,3 +1,4 @@
+# Created by Billy Lundh
 import random
 from enum import Enum
  
